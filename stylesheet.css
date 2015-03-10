@@ -1,0 +1,44 @@
+
+
+span {
+
+font-family: cursive;
+
+
+}
+
+
+body {
+
+	background-image:url("http://38.media.tumblr.com/24a6110c6bd8f49f2830adce7e9fb686/tumblr_mrio36PRmx1relaado1_500.gif");
+	background-color:#66FF33;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	opacity: 0.9%;
+	
+
+}
+
+p {
+
+color: #3333FF;
+
+}
+
+
+ul {
+color:#0066FF; 
+
+}
+#codex{
+ margin-left: 300px;
+
+}
+
+#HomeGround	{
+
+border: 5px solid white;
+background-color:#5A8018;
+position: absolute;
+
+}
